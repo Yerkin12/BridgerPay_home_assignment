@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# osx
+.DS_Store
+
+# dbt / airflow / logs
+logs/
+target/
+airflow_logs/
+*.log
+
+# data dumps (оставим data/ под синтетику, но исключим большие файлы)
+data/*.parquet
+data/*.csv
+data/*.jsonl
+!data/.gitkeep
