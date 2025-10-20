@@ -1,41 +1,41 @@
-{"table": "customers", "customer_id": "C1003", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY"}
-{"table": "customers", "customer_id": "C1007", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "US"}
-{"table": "customers", "customer_id": "C1010", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE"}
-{"table": "customers", "customer_id": "C1013", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "KZ"}
-{"table": "customers", "customer_id": "C1015", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE"}
-{"table": "customers", "customer_id": "C1021", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY"}
-{"table": "customers", "customer_id": "C1022", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU"}
-{"table": "customers", "customer_id": "C1023", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SE"}
-{"table": "customers", "customer_id": "C1039", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "GB"}
-{"table": "customers", "customer_id": "C1043", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG"}
-{"table": "customers", "customer_id": "C1055", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AU"}
-{"table": "customers", "customer_id": "C1061", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "CY"}
-{"table": "customers", "customer_id": "C1063", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE"}
-{"table": "customers", "customer_id": "C1065", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "NL"}
-{"table": "customers", "customer_id": "C1068", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "NL"}
-{"table": "customers", "customer_id": "C1085", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SG"}
-{"table": "customers", "customer_id": "C1093", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "NL"}
-{"table": "customers", "customer_id": "C1095", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "KZ"}
-{"table": "customers", "customer_id": "C1099", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "US"}
-{"table": "customers", "customer_id": "C1100", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG"}
-{"table": "customers", "customer_id": "C1101", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AU"}
-{"table": "customers", "customer_id": "C1102", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU"}
-{"table": "customers", "customer_id": "C1108", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SE"}
-{"table": "customers", "customer_id": "C1111", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AE"}
-{"table": "customers", "customer_id": "C1123", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SG"}
-{"table": "customers", "customer_id": "C1140", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE"}
-{"table": "customers", "customer_id": "C1149", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE"}
-{"table": "customers", "customer_id": "C1155", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "US"}
-{"table": "customers", "customer_id": "C1157", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "DE"}
-{"table": "customers", "customer_id": "C1169", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU"}
-{"table": "customers", "customer_id": "C1172", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "CY"}
-{"table": "customers", "customer_id": "C1175", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG"}
-{"table": "customers", "customer_id": "C1177", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE"}
-{"table": "customers", "customer_id": "C1178", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE"}
-{"table": "customers", "customer_id": "C1184", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SE"}
-{"table": "customers", "customer_id": "C1190", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG"}
-{"table": "customers", "customer_id": "C1196", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SE"}
-{"table": "customers", "customer_id": "C1198", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY"}
+{"table": "customers", "customer_id": "C1003", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1007", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "US", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1010", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1013", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "KZ", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1015", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1021", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1022", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1023", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1039", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "GB", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1043", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1055", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AU", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1061", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "CY", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1063", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1065", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "NL", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1068", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "NL", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1085", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1093", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "NL", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1095", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "KZ", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1099", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "US", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1100", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1101", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AU", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1102", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1108", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1111", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "AE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1123", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1140", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1149", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1155", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "US", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1157", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "DE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1169", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AU", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1172", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "CY", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1175", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1177", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "DE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1178", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "AE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1184", "created_at": "2025-10-13T00:00:00+00:00", "status": "blocked", "country": "SE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1190", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SG", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1196", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "SE", "op_ts": "2025-10-13T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1198", "created_at": "2025-10-13T00:00:00+00:00", "status": "active", "country": "CY", "op_ts": "2025-10-13T00:00:00+00:00"}
 {"table": "orders", "order_id": 100001, "customer_id": "C1142", "order_timestamp": 1760370649, "status": "new", "currency": "USD", "total_amount": 616.5}
 {"table": "order_items", "order_id": 100001, "sku": "SKU-0025", "quantity": 3, "unit_price": 15.34}
 {"table": "order_items", "order_id": 100001, "sku": "SKU-0013", "quantity": 4, "unit_price": 142.62}

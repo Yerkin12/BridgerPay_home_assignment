@@ -92,33 +92,31 @@ def main() -> None:
         # Create new customers (15% chance) and occasional "updates" (2% chance).
         # Updates are duplicated records with possibly different status/country,
         # which will trigger SCD2 behavior in the warehouse.
+# --- customers block (with op_ts for SCD2) -------------------------------
         for cid in customer_ids:
             new_prob = 0.15
             upd_prob = 0.02
-
             if cid not in created_at_map and random.random() < new_prob:
-                created_at_map[cid] = datetime(
-                    day_dt.year, day_dt.month, day_dt.day, tzinfo=timezone.utc
-                ).isoformat()
-                rows.append(
-                    {
-                        "table": "customers",
-                        "customer_id": cid,
-                        "created_at": created_at_map[cid],
-                        "status": random.choice(["active", "blocked"]),
-                        "country": random.choice(countries),
-                    }
-                )
+                created_at_map[cid] = datetime(day_dt.year, day_dt.month, day_dt.day, tzinfo=timezone.utc).isoformat()
+                rows.append({
+                    "table": "customers",
+                    "customer_id": cid,
+                    "created_at": created_at_map[cid],
+                    "status": random.choice(["active", "blocked"]),
+                    "country": random.choice(countries),
+                    # op_ts = the effective timestamp of this version (used for SCD2)
+                    "op_ts": datetime(day_dt.year, day_dt.month, day_dt.day, tzinfo=timezone.utc).isoformat()
+                })
             elif cid in created_at_map and random.random() < upd_prob:
-                rows.append(
-                    {
-                        "table": "customers",
-                        "customer_id": cid,
-                        "created_at": created_at_map[cid],
-                        "status": random.choice(["active", "blocked"]),
-                        "country": random.choice(countries),
-                    }
-                )
+                rows.append({
+                    "table": "customers",
+                    "customer_id": cid,
+                    "created_at": created_at_map[cid],
+                    "status": random.choice(["active", "blocked"]),
+                    "country": random.choice(countries),
+                    "op_ts": datetime(day_dt.year, day_dt.month, day_dt.day, tzinfo=timezone.utc).isoformat()
+                })
+
 
         # --- orders + order_items block -------------------------------------
         # For each day, emit 40..80 orders. Each order gets 1..5 items with random prices.

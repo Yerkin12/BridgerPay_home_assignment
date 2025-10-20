@@ -1,24 +1,24 @@
-{"table": "customers", "customer_id": "C1016", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
-{"table": "customers", "customer_id": "C1025", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "US"}
-{"table": "customers", "customer_id": "C1030", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "KZ"}
-{"table": "customers", "customer_id": "C1033", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE"}
-{"table": "customers", "customer_id": "C1037", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US"}
-{"table": "customers", "customer_id": "C1040", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE"}
-{"table": "customers", "customer_id": "C1042", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE"}
-{"table": "customers", "customer_id": "C1045", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE"}
-{"table": "customers", "customer_id": "C1046", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY"}
-{"table": "customers", "customer_id": "C1053", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY"}
-{"table": "customers", "customer_id": "C1067", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "SE"}
-{"table": "customers", "customer_id": "C1082", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY"}
-{"table": "customers", "customer_id": "C1083", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US"}
-{"table": "customers", "customer_id": "C1094", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY"}
-{"table": "customers", "customer_id": "C1127", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE"}
-{"table": "customers", "customer_id": "C1131", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
-{"table": "customers", "customer_id": "C1133", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE"}
-{"table": "customers", "customer_id": "C1137", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "KZ"}
-{"table": "customers", "customer_id": "C1173", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "GB"}
-{"table": "customers", "customer_id": "C1182", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "SG"}
-{"table": "customers", "customer_id": "C1195", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
+{"table": "customers", "customer_id": "C1016", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1025", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "US", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1030", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "KZ", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1033", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1037", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1040", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1042", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1045", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1046", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1053", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1067", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "SE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1082", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1083", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1094", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1127", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1131", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1133", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1137", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "KZ", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1173", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "GB", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1182", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "SG", "op_ts": "2025-10-14T00:00:00+00:00"}
+{"table": "customers", "customer_id": "C1195", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL", "op_ts": "2025-10-14T00:00:00+00:00"}
 {"table": "orders", "order_id": 100074, "customer_id": "C1057", "order_timestamp": 1760435245, "status": "shipped", "currency": "USD", "total_amount": 943.03}
 {"table": "order_items", "order_id": 100074, "sku": "SKU-0060", "quantity": 2, "unit_price": 45.31}
 {"table": "order_items", "order_id": 100074, "sku": "SKU-0100", "quantity": 1, "unit_price": 203.35}
