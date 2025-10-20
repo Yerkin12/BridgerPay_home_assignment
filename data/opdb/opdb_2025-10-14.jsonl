@@ -1,0 +1,209 @@
+{"table": "customers", "customer_id": "C1016", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
+{"table": "customers", "customer_id": "C1025", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "US"}
+{"table": "customers", "customer_id": "C1030", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "KZ"}
+{"table": "customers", "customer_id": "C1033", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE"}
+{"table": "customers", "customer_id": "C1037", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US"}
+{"table": "customers", "customer_id": "C1040", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE"}
+{"table": "customers", "customer_id": "C1042", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "AE"}
+{"table": "customers", "customer_id": "C1045", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE"}
+{"table": "customers", "customer_id": "C1046", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY"}
+{"table": "customers", "customer_id": "C1053", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY"}
+{"table": "customers", "customer_id": "C1067", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "SE"}
+{"table": "customers", "customer_id": "C1082", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "CY"}
+{"table": "customers", "customer_id": "C1083", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "US"}
+{"table": "customers", "customer_id": "C1094", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "CY"}
+{"table": "customers", "customer_id": "C1127", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "AE"}
+{"table": "customers", "customer_id": "C1131", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
+{"table": "customers", "customer_id": "C1133", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "DE"}
+{"table": "customers", "customer_id": "C1137", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "KZ"}
+{"table": "customers", "customer_id": "C1173", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "GB"}
+{"table": "customers", "customer_id": "C1182", "created_at": "2025-10-14T00:00:00+00:00", "status": "blocked", "country": "SG"}
+{"table": "customers", "customer_id": "C1195", "created_at": "2025-10-14T00:00:00+00:00", "status": "active", "country": "NL"}
+{"table": "orders", "order_id": 100074, "customer_id": "C1057", "order_timestamp": 1760435245, "status": "shipped", "currency": "USD", "total_amount": 943.03}
+{"table": "order_items", "order_id": 100074, "sku": "SKU-0060", "quantity": 2, "unit_price": 45.31}
+{"table": "order_items", "order_id": 100074, "sku": "SKU-0100", "quantity": 1, "unit_price": 203.35}
+{"table": "order_items", "order_id": 100074, "sku": "SKU-0082", "quantity": 2, "unit_price": 119.94}
+{"table": "order_items", "order_id": 100074, "sku": "SKU-0072", "quantity": 2, "unit_price": 204.59}
+{"table": "orders", "order_id": 100075, "customer_id": "C1037", "order_timestamp": 1760442160, "status": "paid", "currency": "EUR", "total_amount": 2253.08}
+{"table": "order_items", "order_id": 100075, "sku": "SKU-0038", "quantity": 2, "unit_price": 196.06}
+{"table": "order_items", "order_id": 100075, "sku": "SKU-0061", "quantity": 3, "unit_price": 196.98}
+{"table": "order_items", "order_id": 100075, "sku": "SKU-0030", "quantity": 3, "unit_price": 177.53}
+{"table": "order_items", "order_id": 100075, "sku": "SKU-0088", "quantity": 3, "unit_price": 245.81}
+{"table": "orders", "order_id": 100076, "customer_id": "C1173", "order_timestamp": 1760419800, "status": "paid", "currency": "EUR", "total_amount": 1008.58}
+{"table": "order_items", "order_id": 100076, "sku": "SKU-0032", "quantity": 3, "unit_price": 83.48}
+{"table": "order_items", "order_id": 100076, "sku": "SKU-0063", "quantity": 4, "unit_price": 157.72}
+{"table": "order_items", "order_id": 100076, "sku": "SKU-0011", "quantity": 3, "unit_price": 42.42}
+{"table": "orders", "order_id": 100077, "customer_id": "C1077", "order_timestamp": 1760443385, "status": "paid", "currency": "EUR", "total_amount": 536.75}
+{"table": "order_items", "order_id": 100077, "sku": "SKU-0068", "quantity": 3, "unit_price": 160.12}
+{"table": "order_items", "order_id": 100077, "sku": "SKU-0002", "quantity": 1, "unit_price": 56.39}
+{"table": "orders", "order_id": 100078, "customer_id": "C1018", "order_timestamp": 1760473096, "status": "paid", "currency": "USD", "total_amount": 812.52}
+{"table": "order_items", "order_id": 100078, "sku": "SKU-0024", "quantity": 4, "unit_price": 89.88}
+{"table": "order_items", "order_id": 100078, "sku": "SKU-0020", "quantity": 2, "unit_price": 226.5}
+{"table": "orders", "order_id": 100079, "customer_id": "C1136", "order_timestamp": 1760420397, "status": "paid", "currency": "USD", "total_amount": 1419.64}
+{"table": "order_items", "order_id": 100079, "sku": "SKU-0082", "quantity": 3, "unit_price": 53.36}
+{"table": "order_items", "order_id": 100079, "sku": "SKU-0089", "quantity": 2, "unit_price": 135.04}
+{"table": "order_items", "order_id": 100079, "sku": "SKU-0095", "quantity": 4, "unit_price": 169.45}
+{"table": "order_items", "order_id": 100079, "sku": "SKU-0015", "quantity": 1, "unit_price": 69.8}
+{"table": "order_items", "order_id": 100079, "sku": "SKU-0030", "quantity": 2, "unit_price": 120.94}
+{"table": "orders", "order_id": 100080, "customer_id": "C1142", "order_timestamp": 1760405429, "status": "shipped", "currency": "EUR", "total_amount": 318.67}
+{"table": "order_items", "order_id": 100080, "sku": "SKU-0064", "quantity": 2, "unit_price": 137.19}
+{"table": "order_items", "order_id": 100080, "sku": "SKU-0095", "quantity": 1, "unit_price": 44.29}
+{"table": "orders", "order_id": 100081, "customer_id": "C1082", "order_timestamp": 1760453076, "status": "new", "currency": "EUR", "total_amount": 1099.04}
+{"table": "order_items", "order_id": 100081, "sku": "SKU-0048", "quantity": 4, "unit_price": 107.61}
+{"table": "order_items", "order_id": 100081, "sku": "SKU-0087", "quantity": 1, "unit_price": 49.23}
+{"table": "order_items", "order_id": 100081, "sku": "SKU-0047", "quantity": 1, "unit_price": 10.04}
+{"table": "order_items", "order_id": 100081, "sku": "SKU-0006", "quantity": 3, "unit_price": 203.11}
+{"table": "orders", "order_id": 100082, "customer_id": "C1024", "order_timestamp": 1760459431, "status": "paid", "currency": "USD", "total_amount": 632.76}
+{"table": "order_items", "order_id": 100082, "sku": "SKU-0028", "quantity": 4, "unit_price": 158.19}
+{"table": "orders", "order_id": 100083, "customer_id": "C1086", "order_timestamp": 1760414142, "status": "new", "currency": "EUR", "total_amount": 1724.73}
+{"table": "order_items", "order_id": 100083, "sku": "SKU-0071", "quantity": 2, "unit_price": 74.62}
+{"table": "order_items", "order_id": 100083, "sku": "SKU-0044", "quantity": 4, "unit_price": 66.64}
+{"table": "order_items", "order_id": 100083, "sku": "SKU-0007", "quantity": 3, "unit_price": 76.76}
+{"table": "order_items", "order_id": 100083, "sku": "SKU-0064", "quantity": 4, "unit_price": 86.76}
+{"table": "order_items", "order_id": 100083, "sku": "SKU-0035", "quantity": 3, "unit_price": 243.87}
+{"table": "orders", "order_id": 100084, "customer_id": "C1167", "order_timestamp": 1760457007, "status": "new", "currency": "EUR", "total_amount": 1028.0}
+{"table": "order_items", "order_id": 100084, "sku": "SKU-0017", "quantity": 1, "unit_price": 197.13}
+{"table": "order_items", "order_id": 100084, "sku": "SKU-0006", "quantity": 4, "unit_price": 182.06}
+{"table": "order_items", "order_id": 100084, "sku": "SKU-0052", "quantity": 1, "unit_price": 102.63}
+{"table": "orders", "order_id": 100085, "customer_id": "C1027", "order_timestamp": 1760400132, "status": "paid", "currency": "EUR", "total_amount": 1680.08}
+{"table": "order_items", "order_id": 100085, "sku": "SKU-0099", "quantity": 1, "unit_price": 198.31}
+{"table": "order_items", "order_id": 100085, "sku": "SKU-0070", "quantity": 4, "unit_price": 156.09}
+{"table": "order_items", "order_id": 100085, "sku": "SKU-0081", "quantity": 1, "unit_price": 57.06}
+{"table": "order_items", "order_id": 100085, "sku": "SKU-0086", "quantity": 4, "unit_price": 158.19}
+{"table": "order_items", "order_id": 100085, "sku": "SKU-0023", "quantity": 1, "unit_price": 167.59}
+{"table": "orders", "order_id": 100086, "customer_id": "C1009", "order_timestamp": 1760449746, "status": "shipped", "currency": "USD", "total_amount": 608.94}
+{"table": "order_items", "order_id": 100086, "sku": "SKU-0018", "quantity": 3, "unit_price": 142.71}
+{"table": "order_items", "order_id": 100086, "sku": "SKU-0034", "quantity": 3, "unit_price": 50.27}
+{"table": "order_items", "order_id": 100086, "sku": "SKU-0005", "quantity": 3, "unit_price": 10.0}
+{"table": "orders", "order_id": 100087, "customer_id": "C1144", "order_timestamp": 1760474279, "status": "shipped", "currency": "EUR", "total_amount": 1721.71}
+{"table": "order_items", "order_id": 100087, "sku": "SKU-0067", "quantity": 1, "unit_price": 207.07}
+{"table": "order_items", "order_id": 100087, "sku": "SKU-0100", "quantity": 4, "unit_price": 145.95}
+{"table": "order_items", "order_id": 100087, "sku": "SKU-0052", "quantity": 4, "unit_price": 21.47}
+{"table": "order_items", "order_id": 100087, "sku": "SKU-0088", "quantity": 4, "unit_price": 150.5}
+{"table": "order_items", "order_id": 100087, "sku": "SKU-0085", "quantity": 2, "unit_price": 121.48}
+{"table": "orders", "order_id": 100088, "customer_id": "C1105", "order_timestamp": 1760461565, "status": "paid", "currency": "USD", "total_amount": 356.34}
+{"table": "order_items", "order_id": 100088, "sku": "SKU-0081", "quantity": 1, "unit_price": 109.61}
+{"table": "order_items", "order_id": 100088, "sku": "SKU-0002", "quantity": 1, "unit_price": 246.73}
+{"table": "orders", "order_id": 100089, "customer_id": "C1022", "order_timestamp": 1760424907, "status": "new", "currency": "USD", "total_amount": 1060.62}
+{"table": "order_items", "order_id": 100089, "sku": "SKU-0093", "quantity": 2, "unit_price": 115.44}
+{"table": "order_items", "order_id": 100089, "sku": "SKU-0096", "quantity": 2, "unit_price": 231.09}
+{"table": "order_items", "order_id": 100089, "sku": "SKU-0047", "quantity": 2, "unit_price": 183.78}
+{"table": "orders", "order_id": 100090, "customer_id": "C1021", "order_timestamp": 1760434835, "status": "paid", "currency": "EUR", "total_amount": 587.36}
+{"table": "order_items", "order_id": 100090, "sku": "SKU-0007", "quantity": 1, "unit_price": 7.79}
+{"table": "order_items", "order_id": 100090, "sku": "SKU-0002", "quantity": 1, "unit_price": 100.29}
+{"table": "order_items", "order_id": 100090, "sku": "SKU-0040", "quantity": 2, "unit_price": 239.64}
+{"table": "orders", "order_id": 100091, "customer_id": "C1124", "order_timestamp": 1760468600, "status": "new", "currency": "EUR", "total_amount": 2230.58}
+{"table": "order_items", "order_id": 100091, "sku": "SKU-0087", "quantity": 2, "unit_price": 40.5}
+{"table": "order_items", "order_id": 100091, "sku": "SKU-0015", "quantity": 3, "unit_price": 238.7}
+{"table": "order_items", "order_id": 100091, "sku": "SKU-0021", "quantity": 4, "unit_price": 121.86}
+{"table": "order_items", "order_id": 100091, "sku": "SKU-0100", "quantity": 4, "unit_price": 236.51}
+{"table": "orders", "order_id": 100092, "customer_id": "C1193", "order_timestamp": 1760466078, "status": "new", "currency": "EUR", "total_amount": 1542.42}
+{"table": "order_items", "order_id": 100092, "sku": "SKU-0093", "quantity": 1, "unit_price": 208.67}
+{"table": "order_items", "order_id": 100092, "sku": "SKU-0077", "quantity": 3, "unit_price": 148.24}
+{"table": "order_items", "order_id": 100092, "sku": "SKU-0032", "quantity": 4, "unit_price": 99.9}
+{"table": "order_items", "order_id": 100092, "sku": "SKU-0049", "quantity": 2, "unit_price": 202.83}
+{"table": "order_items", "order_id": 100092, "sku": "SKU-0037", "quantity": 1, "unit_price": 83.77}
+{"table": "orders", "order_id": 100093, "customer_id": "C1068", "order_timestamp": 1760447437, "status": "shipped", "currency": "USD", "total_amount": 1305.54}
+{"table": "order_items", "order_id": 100093, "sku": "SKU-0019", "quantity": 2, "unit_price": 72.09}
+{"table": "order_items", "order_id": 100093, "sku": "SKU-0071", "quantity": 4, "unit_price": 89.98}
+{"table": "order_items", "order_id": 100093, "sku": "SKU-0011", "quantity": 4, "unit_price": 200.36}
+{"table": "orders", "order_id": 100094, "customer_id": "C1051", "order_timestamp": 1760486354, "status": "new", "currency": "USD", "total_amount": 861.11}
+{"table": "order_items", "order_id": 100094, "sku": "SKU-0060", "quantity": 2, "unit_price": 231.87}
+{"table": "order_items", "order_id": 100094, "sku": "SKU-0076", "quantity": 1, "unit_price": 198.96}
+{"table": "order_items", "order_id": 100094, "sku": "SKU-0059", "quantity": 1, "unit_price": 136.36}
+{"table": "order_items", "order_id": 100094, "sku": "SKU-0046", "quantity": 1, "unit_price": 62.05}
+{"table": "orders", "order_id": 100095, "customer_id": "C1148", "order_timestamp": 1760461036, "status": "shipped", "currency": "EUR", "total_amount": 744.45}
+{"table": "order_items", "order_id": 100095, "sku": "SKU-0065", "quantity": 2, "unit_price": 51.34}
+{"table": "order_items", "order_id": 100095, "sku": "SKU-0025", "quantity": 1, "unit_price": 49.27}
+{"table": "order_items", "order_id": 100095, "sku": "SKU-0090", "quantity": 3, "unit_price": 93.89}
+{"table": "order_items", "order_id": 100095, "sku": "SKU-0073", "quantity": 3, "unit_price": 103.61}
+{"table": "orders", "order_id": 100096, "customer_id": "C1132", "order_timestamp": 1760415302, "status": "shipped", "currency": "EUR", "total_amount": 865.99}
+{"table": "order_items", "order_id": 100096, "sku": "SKU-0014", "quantity": 3, "unit_price": 160.02}
+{"table": "order_items", "order_id": 100096, "sku": "SKU-0011", "quantity": 2, "unit_price": 82.37}
+{"table": "order_items", "order_id": 100096, "sku": "SKU-0004", "quantity": 3, "unit_price": 73.73}
+{"table": "orders", "order_id": 100097, "customer_id": "C1155", "order_timestamp": 1760400362, "status": "new", "currency": "EUR", "total_amount": 865.44}
+{"table": "order_items", "order_id": 100097, "sku": "SKU-0073", "quantity": 2, "unit_price": 69.09}
+{"table": "order_items", "order_id": 100097, "sku": "SKU-0100", "quantity": 3, "unit_price": 109.36}
+{"table": "order_items", "order_id": 100097, "sku": "SKU-0058", "quantity": 2, "unit_price": 67.23}
+{"table": "order_items", "order_id": 100097, "sku": "SKU-0005", "quantity": 3, "unit_price": 54.24}
+{"table": "order_items", "order_id": 100097, "sku": "SKU-0024", "quantity": 4, "unit_price": 25.5}
+{"table": "orders", "order_id": 100098, "customer_id": "C1013", "order_timestamp": 1760405723, "status": "shipped", "currency": "EUR", "total_amount": 1514.65}
+{"table": "order_items", "order_id": 100098, "sku": "SKU-0009", "quantity": 4, "unit_price": 230.93}
+{"table": "order_items", "order_id": 100098, "sku": "SKU-0091", "quantity": 1, "unit_price": 68.01}
+{"table": "order_items", "order_id": 100098, "sku": "SKU-0073", "quantity": 2, "unit_price": 161.96}
+{"table": "order_items", "order_id": 100098, "sku": "SKU-0086", "quantity": 4, "unit_price": 49.75}
+{"table": "orders", "order_id": 100099, "customer_id": "C1040", "order_timestamp": 1760440546, "status": "new", "currency": "USD", "total_amount": 369.0}
+{"table": "order_items", "order_id": 100099, "sku": "SKU-0046", "quantity": 1, "unit_price": 226.17}
+{"table": "order_items", "order_id": 100099, "sku": "SKU-0004", "quantity": 1, "unit_price": 68.19}
+{"table": "order_items", "order_id": 100099, "sku": "SKU-0066", "quantity": 4, "unit_price": 18.66}
+{"table": "orders", "order_id": 100100, "customer_id": "C1037", "order_timestamp": 1760438880, "status": "shipped", "currency": "EUR", "total_amount": 1885.04}
+{"table": "order_items", "order_id": 100100, "sku": "SKU-0076", "quantity": 4, "unit_price": 190.68}
+{"table": "order_items", "order_id": 100100, "sku": "SKU-0014", "quantity": 4, "unit_price": 84.36}
+{"table": "order_items", "order_id": 100100, "sku": "SKU-0033", "quantity": 4, "unit_price": 35.42}
+{"table": "order_items", "order_id": 100100, "sku": "SKU-0062", "quantity": 4, "unit_price": 46.3}
+{"table": "order_items", "order_id": 100100, "sku": "SKU-0031", "quantity": 2, "unit_price": 229.0}
+{"table": "orders", "order_id": 100101, "customer_id": "C1003", "order_timestamp": 1760453158, "status": "new", "currency": "USD", "total_amount": 625.2}
+{"table": "order_items", "order_id": 100101, "sku": "SKU-0029", "quantity": 1, "unit_price": 233.82}
+{"table": "order_items", "order_id": 100101, "sku": "SKU-0048", "quantity": 2, "unit_price": 195.69}
+{"table": "orders", "order_id": 100102, "customer_id": "C1024", "order_timestamp": 1760446381, "status": "paid", "currency": "EUR", "total_amount": 413.1}
+{"table": "order_items", "order_id": 100102, "sku": "SKU-0042", "quantity": 2, "unit_price": 122.0}
+{"table": "order_items", "order_id": 100102, "sku": "SKU-0081", "quantity": 3, "unit_price": 39.98}
+{"table": "order_items", "order_id": 100102, "sku": "SKU-0029", "quantity": 1, "unit_price": 49.16}
+{"table": "orders", "order_id": 100103, "customer_id": "C1115", "order_timestamp": 1760464569, "status": "new", "currency": "USD", "total_amount": 1302.57}
+{"table": "order_items", "order_id": 100103, "sku": "SKU-0054", "quantity": 4, "unit_price": 65.46}
+{"table": "order_items", "order_id": 100103, "sku": "SKU-0004", "quantity": 3, "unit_price": 144.89}
+{"table": "order_items", "order_id": 100103, "sku": "SKU-0038", "quantity": 3, "unit_price": 202.02}
+{"table": "orders", "order_id": 100104, "customer_id": "C1066", "order_timestamp": 1760454380, "status": "new", "currency": "EUR", "total_amount": 159.6}
+{"table": "order_items", "order_id": 100104, "sku": "SKU-0020", "quantity": 1, "unit_price": 159.6}
+{"table": "orders", "order_id": 100105, "customer_id": "C1171", "order_timestamp": 1760423730, "status": "paid", "currency": "USD", "total_amount": 1334.82}
+{"table": "order_items", "order_id": 100105, "sku": "SKU-0097", "quantity": 2, "unit_price": 242.82}
+{"table": "order_items", "order_id": 100105, "sku": "SKU-0056", "quantity": 3, "unit_price": 249.53}
+{"table": "order_items", "order_id": 100105, "sku": "SKU-0031", "quantity": 1, "unit_price": 100.59}
+{"table": "orders", "order_id": 100106, "customer_id": "C1106", "order_timestamp": 1760418233, "status": "paid", "currency": "EUR", "total_amount": 503.74}
+{"table": "order_items", "order_id": 100106, "sku": "SKU-0082", "quantity": 1, "unit_price": 113.32}
+{"table": "order_items", "order_id": 100106, "sku": "SKU-0065", "quantity": 3, "unit_price": 130.14}
+{"table": "orders", "order_id": 100107, "customer_id": "C1113", "order_timestamp": 1760403053, "status": "shipped", "currency": "EUR", "total_amount": 205.38}
+{"table": "order_items", "order_id": 100107, "sku": "SKU-0047", "quantity": 4, "unit_price": 14.93}
+{"table": "order_items", "order_id": 100107, "sku": "SKU-0053", "quantity": 2, "unit_price": 72.83}
+{"table": "orders", "order_id": 100108, "customer_id": "C1046", "order_timestamp": 1760417591, "status": "new", "currency": "USD", "total_amount": 974.14}
+{"table": "order_items", "order_id": 100108, "sku": "SKU-0026", "quantity": 1, "unit_price": 208.1}
+{"table": "order_items", "order_id": 100108, "sku": "SKU-0078", "quantity": 4, "unit_price": 191.51}
+{"table": "orders", "order_id": 100109, "customer_id": "C1044", "order_timestamp": 1760422119, "status": "paid", "currency": "USD", "total_amount": 1379.67}
+{"table": "order_items", "order_id": 100109, "sku": "SKU-0040", "quantity": 2, "unit_price": 7.46}
+{"table": "order_items", "order_id": 100109, "sku": "SKU-0089", "quantity": 4, "unit_price": 211.06}
+{"table": "order_items", "order_id": 100109, "sku": "SKU-0008", "quantity": 3, "unit_price": 87.13}
+{"table": "order_items", "order_id": 100109, "sku": "SKU-0082", "quantity": 4, "unit_price": 27.13}
+{"table": "order_items", "order_id": 100109, "sku": "SKU-0053", "quantity": 4, "unit_price": 37.65}
+{"table": "orders", "order_id": 100110, "customer_id": "C1170", "order_timestamp": 1760429711, "status": "new", "currency": "EUR", "total_amount": 437.58}
+{"table": "order_items", "order_id": 100110, "sku": "SKU-0021", "quantity": 3, "unit_price": 145.86}
+{"table": "orders", "order_id": 100111, "customer_id": "C1001", "order_timestamp": 1760441639, "status": "new", "currency": "USD", "total_amount": 410.1}
+{"table": "order_items", "order_id": 100111, "sku": "SKU-0046", "quantity": 2, "unit_price": 205.05}
+{"table": "orders", "order_id": 100112, "customer_id": "C1082", "order_timestamp": 1760482524, "status": "new", "currency": "USD", "total_amount": 791.0}
+{"table": "order_items", "order_id": 100112, "sku": "SKU-0014", "quantity": 4, "unit_price": 114.38}
+{"table": "order_items", "order_id": 100112, "sku": "SKU-0004", "quantity": 2, "unit_price": 10.07}
+{"table": "order_items", "order_id": 100112, "sku": "SKU-0012", "quantity": 2, "unit_price": 156.67}
+{"table": "orders", "order_id": 100113, "customer_id": "C1042", "order_timestamp": 1760411956, "status": "new", "currency": "USD", "total_amount": 138.1}
+{"table": "order_items", "order_id": 100113, "sku": "SKU-0013", "quantity": 2, "unit_price": 69.05}
+{"table": "orders", "order_id": 100114, "customer_id": "C1153", "order_timestamp": 1760474189, "status": "new", "currency": "EUR", "total_amount": 180.69}
+{"table": "order_items", "order_id": 100114, "sku": "SKU-0045", "quantity": 1, "unit_price": 180.69}
+{"table": "orders", "order_id": 100115, "customer_id": "C1011", "order_timestamp": 1760429249, "status": "new", "currency": "EUR", "total_amount": 104.38}
+{"table": "order_items", "order_id": 100115, "sku": "SKU-0016", "quantity": 1, "unit_price": 104.38}
+{"table": "orders", "order_id": 100116, "customer_id": "C1035", "order_timestamp": 1760463434, "status": "shipped", "currency": "USD", "total_amount": 1787.69}
+{"table": "order_items", "order_id": 100116, "sku": "SKU-0060", "quantity": 4, "unit_price": 45.26}
+{"table": "order_items", "order_id": 100116, "sku": "SKU-0003", "quantity": 4, "unit_price": 175.0}
+{"table": "order_items", "order_id": 100116, "sku": "SKU-0077", "quantity": 1, "unit_price": 101.93}
+{"table": "order_items", "order_id": 100116, "sku": "SKU-0007", "quantity": 3, "unit_price": 87.94}
+{"table": "order_items", "order_id": 100116, "sku": "SKU-0031", "quantity": 3, "unit_price": 180.3}
+{"table": "orders", "order_id": 100117, "customer_id": "C1144", "order_timestamp": 1760439145, "status": "paid", "currency": "USD", "total_amount": 1010.19}
+{"table": "order_items", "order_id": 100117, "sku": "SKU-0067", "quantity": 2, "unit_price": 239.68}
+{"table": "order_items", "order_id": 100117, "sku": "SKU-0046", "quantity": 2, "unit_price": 218.27}
+{"table": "order_items", "order_id": 100117, "sku": "SKU-0085", "quantity": 1, "unit_price": 94.29}
+{"table": "orders", "order_id": 100118, "customer_id": "C1135", "order_timestamp": 1760418260, "status": "new", "currency": "USD", "total_amount": 1610.88}
+{"table": "order_items", "order_id": 100118, "sku": "SKU-0018", "quantity": 4, "unit_price": 242.58}
+{"table": "order_items", "order_id": 100118, "sku": "SKU-0100", "quantity": 4, "unit_price": 160.14}
+{"table": "orders", "order_id": 100119, "customer_id": "C1010", "order_timestamp": 1760406941, "status": "paid", "currency": "EUR", "total_amount": 421.82}
+{"table": "order_items", "order_id": 100119, "sku": "SKU-0005", "quantity": 1, "unit_price": 66.39}
+{"table": "order_items", "order_id": 100119, "sku": "SKU-0067", "quantity": 1, "unit_price": 111.25}
+{"table": "order_items", "order_id": 100119, "sku": "SKU-0006", "quantity": 3, "unit_price": 32.7}
+{"table": "order_items", "order_id": 100119, "sku": "SKU-0045", "quantity": 2, "unit_price": 34.49}
+{"table": "order_items", "order_id": 100119, "sku": "SKU-0077", "quantity": 3, "unit_price": 25.7}
