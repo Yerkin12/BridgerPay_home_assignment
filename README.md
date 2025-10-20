@@ -1,7 +1,3 @@
-Вот готовый, обновлённый и самодостаточный **README.md** для репозитория. Он уже с твоими значениями (EU, `bp-nw-next-yerkin`, `northwind_next`) и без `TODO`.
-
----
-
 # BridgerPay — Northwind-Next (Data Engineering Take-Home)
 
 **Goal.** Build an end-to-end, production-style pipeline on GCP that lands multi-source data, models it with a layered approach (**bronze → silver → gold**) in BigQuery, and exposes daily commerce metrics with basic DQ and backfill strategy.
