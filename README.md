@@ -110,6 +110,3 @@ DAG stages (daily):
   * **Top-5 categories by GMV (7d)**
   * **Conversion funnel (14d)**
   * **Late-events share & impact (>6h)**
-
-
-Want me to fill the `TODO` fields (project ID, dataset, SCD choice) with your actual values now?
