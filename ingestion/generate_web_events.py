@@ -30,14 +30,17 @@ def main():
                           random.randint(0,23), random.randint(0,59), random.randint(0,59),
                           tzinfo=timezone.utc)
             evt = random.choices(event_types, weights=[0.6,0.25,0.1,0.05])[0]
+# inside the daily loop, right before appending each row:
             row = {
                 "event_id": str(uuid.uuid4()),
-                "ts": ts.isoformat(),
+                "ts": ts.isoformat(),                     # event time (when it happened)
                 "customer_id": f"C{random.randint(1000,1199)}",
                 "event": evt,
                 "sku": f"SKU-{random.randint(1,100):04d}",
-                "device": random.choice(devices)
+                "device": random.choice(devices),
+                "load_day": day.isoformat()               # batch arrival day in warehouse
             }
+
             rows.append(row)
 
             # duplicate ~3%
